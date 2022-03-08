@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name PUTM_EV_IMD_SAFETY_2021-rescue)(type Legacy)(uri ${KIPRJMOD}/PUTM_EV_IMD_SAFETY_2021-rescue.lib)(options "")(descr ""))
+  (lib (name PUTM_EV_IMD_SAFETY_2021-cache)(type Legacy)(uri ${KIPRJMOD}/PUTM_EV_IMD_SAFETY_2021-cache.lib)(options "")(descr ""))
+)
