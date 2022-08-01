@@ -6125,9 +6125,9 @@
   )
 
   (symbol (lib_id "PUTM_EV_IMD_SAFETY_2021-rescue:R-Device") (at 279.4 184.15 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid f7474aec-0104-413c-8bdf-15d3b24220bf)
-    (property "Reference" "R26" (id 0) (at 275.59 182.88 0)
+    (property "Reference" "R26" (id 0) (at 274.32 182.88 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100K" (id 1) (at 273.05 185.42 0)
